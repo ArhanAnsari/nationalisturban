@@ -1,0 +1,61 @@
+html {
+	height: 100%;
+	width: 100%;
+}
+
+/*Style for Image*/
+
+img {
+	width: 200px;
+	height: 100px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/*Style for h1*/
+
+h1 {
+	font-family: calibri;
+	color: darkorange;
+	text-align: center;
+}
+
+/*Style for h3*/
+
+h3 {
+	font-family: calibri;
+	color: darkblue;
+	text-align: left;
+}
+
+/*Style for h2*/
+
+h2{
+	font-family: calibri;
+	color: darkblue;
+	
+}
+
+/*Style for h4*/
+
+h4 {
+	font-family: calibri;
+	color: darkblue;
+	text-align: center;
+}
+
+/*Style for h5*/
+
+h5 {
+	font-family: calibri;
+	color: darkblue;
+	text-align: center;
+}
+
+/*Style for p*/
+
+p{
+	font-family: calibri;
+	color: darkblue;
+}
